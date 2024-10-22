@@ -1,7 +1,7 @@
 body {
-    background-image: url("images/background-body.avif");
+    background-image: url("images/background-body.jpg");
     object-fit:cover;
-    color: red;
+    color: rgb(209, 14, 14);
     font-family: 'Raleway', sans-serif;
     margin: 0;
     padding: 0;
