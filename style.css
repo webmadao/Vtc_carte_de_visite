@@ -1,5 +1,5 @@
 body {
-    background-image: url("images/background-body.jpg");
+    background-image: url("images/background-body.avif");
     object-fit:cover;
     color: red;
     font-family: 'Raleway', sans-serif;
@@ -22,7 +22,7 @@ body {
   }
 
 main {
-    background-image: url("images/cart-background.jpg");
+    background-image: url("images/cart-background.avif");
     position: relative;
     z-index: 1;
     margin: 50px auto;
